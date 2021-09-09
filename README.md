@@ -7,5 +7,5 @@ I created long long time ago (more than 15 years ago) my own framework for rapid
 Check my complete bio at [Linked in](https://www.linkedin.com/in/antonioparraga/)
 
   <p align="center">
-  ... btw, I usually publish some of my thoughts at my own <a href="https://www.youtube.com/c/antonioparraga">Youtube channel</a>, don't doubt to visit it (and subscribe!)
+  ... btw, I usually publish some of my thoughts at my own <a href="https://www.youtube.com/c/antonioparraga">Youtube channel</a> and my website <a href="https://soloprogramadores.com">Solo Programadores</a>, don't doubt to visit it (and subscribe!)
   </p>
